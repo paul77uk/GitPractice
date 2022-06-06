@@ -39,6 +39,6 @@ fun Greeting(name: String) {
 fun DefaultPreview() {
     GitPracticeTheme {
         Greeting("This is contained in my second commit")
-        today is a good day
+        fhgfgfgfggf
     }
 }

@@ -38,6 +38,6 @@ fun Greeting(name: String) {
 @Composable
 fun DefaultPreview() {
     GitPracticeTheme {
-        Greeting("Android")
+        Greeting("This is contained in my second commit")
     }
 }

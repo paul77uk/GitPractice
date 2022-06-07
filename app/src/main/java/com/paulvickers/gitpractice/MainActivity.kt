@@ -41,6 +41,7 @@ fun DefaultPreview() {
         Greeting("This is contained in my second commit")
         Greeting("Local change")
         Greeting("change 2")
+        Greeting("this will be merged")
 
     }
 }

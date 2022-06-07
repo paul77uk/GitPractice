@@ -42,6 +42,6 @@ fun DefaultPreview() {
         Greeting("Local change")
         Greeting("change 4")
         Greeting("this will be merged")
-
+        Greeting("Hello from your friend")
     }
 }

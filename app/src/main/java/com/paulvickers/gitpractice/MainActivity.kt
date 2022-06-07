@@ -40,7 +40,7 @@ fun DefaultPreview() {
     GitPracticeTheme {
         Greeting("This is contained in my second commit")
         Greeting("Local change")
-        Greeting("Experimental")
+        Greeting("change 2")
 
     }
 }
